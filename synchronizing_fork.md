@@ -1,14 +1,14 @@
 # SYNCHRONIZING FORK REPOSITORY
 
-When you work jointly on a file of any kind like notice, project etc , there may be a situation that changes that are done to the head repository( from which you copy repository) are not present in your fork. There is a need to update the fork before continuing work.
+When you work jointly on a file of any kind like notice, project etc, there may be a situation that changes that are done to the head repository (from which you forked repository) are not present in your copy. There is a need to update the fork before continuing.
 
-Github has an excellent feature. There is no need to mannualy check whether your fork  is up to date or not.It is done automatically.As soon as you open repository it shows notification 
+Github has an excellent feature. There is no need to manually check whether your fork is up to date or not. It is done automatically. As soon as you open repository it shows notification: 
 
 ``` you are n number of commit behind ```
 
 ![Step1](media/step1.png)
 
-It Indicates your fork is not upto Date. Now,Synchronize your fork by following steps.
+It indicates that your fork is not up to Date. Now, synchronize your fork by following steps:
 
 - Click on Compare changes
 
